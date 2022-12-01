@@ -23,7 +23,7 @@ Installation of requests
 
 ## Dataset : 
 API used
-'https://api.dictionaryapi.dev/api/v1/entries/en/'
+* 'https://api.dictionaryapi.dev/api/v1/entries/en/'
  
 ## Deployment :
 To deploy this project run
