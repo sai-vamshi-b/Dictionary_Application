@@ -2,7 +2,7 @@
 # Dictionary Application using API
 
 ## Description :
-A dictionary application created using django and API. User can search for words and access their meanings.
+A dictionary web application created using django and API. User can search for words and access their meanings.
 
 ## Requirements :
 - Python
