@@ -2,7 +2,7 @@
 # Dictionary Application using API
 
 
-# 📝 Description :
+📝 Description :
 Create a Dictionary Application user should be able to search for words and access their meanings.
 Extra features like saving the word as users favourites is appreciated but not necessary.
 
