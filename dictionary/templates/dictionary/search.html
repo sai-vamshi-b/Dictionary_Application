@@ -1,0 +1,29 @@
+{% extends 'dictionary/base.html' %}
+
+{% block content %}
+
+<h3> <strong> Word: </strong> {{ word }}</h3>
+
+<h4><strong>Meanings:</strong></h4>
+{% for type_of_data in full_data %}
+    {% for data_type, data in type_of_data.items %}
+        {% if data_type == 'meaning' %}
+            <ul>
+            {% for parts_of_speech, personalized_data in data.items %}
+                <li><h5>{{ parts_of_speech }}:</h5></li>
+                <ul>
+                {% for mini_data in personalized_data %}
+                    <li>{{ mini_data.definition }}</li>
+                {% endfor %}
+                </ul>
+            {% endfor %}
+            </ul>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% if not full_data.0 %}
+    Requested word is not found. Please check the word you have typed.
+{% endif %}
+
+{% endblock %}
