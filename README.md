@@ -5,8 +5,8 @@
 A dictionary application created using django and API. User can search for words and access their meanings.
 
 ## Requirements :
-- Python (any version)
-- Django (any version)
+- Python
+- Django 
 - API
 
 ## Setup :
