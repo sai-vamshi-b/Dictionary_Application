@@ -1,8 +1,63 @@
-Since this dictionary uses API, installation of requests in terminal is required, run the below given code.
 
-py -m pip install requests
+# Dictionary Application using API
 
-Screenshots of this project:
 
-![WhatsApp Image 2022-11-29 at 18 57 37](https://user-images.githubusercontent.com/108649101/205054079-9f227d5c-4fed-44c5-85b7-729bc4490cbb.jpeg)
-![WhatsApp Image 2022-11-29 at 18 55 15](https://user-images.githubusercontent.com/108649101/205054085-4a54ae40-948e-4d02-830c-c6fd547441b4.jpeg)
+# 📝 Description :
+Create a Dictionary Application user should be able to search for words and access their meanings.
+Extra features like saving the word as users favourites is appreciated but not necessary.
+
+
+# ⏳ Dataset : 'dictionary/base.html'
+
+# 🖥️ Installation : 
+
+🛠️ Requirements
+
+ Any Python 
+ Django
+ API
+
+
+# ⚙️ Setup
+Install Django :-
+$ pip install Django
+Install :-
+$ 
+
+# Contributors :
+
+Kajal Kushwaha
+Sai Vamshi
+Anmol
+Mayur
+## Deployment
+
+To deploy this project run
+
+```bash
+  python manage.py runserver
+```
+
+
+## Installation
+
+Install my-project with Django
+
+```bash
+  pip install Django
+```
+    
+## Demo
+
+Insert gif or link to demo
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
