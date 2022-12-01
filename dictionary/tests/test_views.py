@@ -7,8 +7,6 @@ class TestViews(TestCase):
     def setUp(self):
         self.client = Client()
         self.home_url = reverse('home')
-        self.search_url = reverse('search')
-
 
     def test_home_view_GET(self):
         response = self.client.get(self.home_url)
