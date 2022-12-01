@@ -7,7 +7,7 @@ Create a Dictionary Application user should be able to search for words and acce
 Extra features like saving the word as users favourites is appreciated but not necessary.
 
 
-# ⏳ Dataset : 'dictionary/base.html'
+# ⏳ Dataset : 'https://api.dictionaryapi.dev/api/v1/entries/en/'
 
 # 🖥️ Installation : 
 
