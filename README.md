@@ -9,7 +9,7 @@ Extra features like saving the word as users favourites is appreciated but not n
 
 ## ⏳ Dataset : 'https://api.dictionaryapi.dev/api/v1/entries/en/'
 
-# 🖥️ Installation : 
+## 🖥️ Installation : 
 
 🛠️ Requirements
 
