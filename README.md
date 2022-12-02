@@ -32,12 +32,11 @@ To deploy this project run
 ```
  
 ## Demo :
-Insert screenshots here
 
 - Home Page
  <img width="905" alt="Home" src="https://user-images.githubusercontent.com/119329336/205220577-5ea94a5a-2a5c-4fda-8b17-262f9977ff75.png">
 
-- Per word typed, it shows their meanings, along with their parrt of speech.
+- For word typed, it shows their meanings, along with their parts of speech.
  <img width="901" alt="Correct Spelling" src="https://user-images.githubusercontent.com/119329336/205219405-0edd5e74-ec5b-4b96-85ba-ccb68856d1c8.png">
 
 - For wrong spelling, it request user to check the word again.
