@@ -35,13 +35,13 @@ To deploy this project run
 Insert screenshots here
 
 - Home Page
-- <img width="905" alt="Home" src="https://user-images.githubusercontent.com/119329336/205220577-5ea94a5a-2a5c-4fda-8b17-262f9977ff75.png">
+ <img width="905" alt="Home" src="https://user-images.githubusercontent.com/119329336/205220577-5ea94a5a-2a5c-4fda-8b17-262f9977ff75.png">
 
-- Correct word shows their meanings
-- <img width="901" alt="Correct Spelling" src="https://user-images.githubusercontent.com/119329336/205219405-0edd5e74-ec5b-4b96-85ba-ccb68856d1c8.png">
+- Per word typed, it shows their meanings, along with their parrt of speech.
+ <img width="901" alt="Correct Spelling" src="https://user-images.githubusercontent.com/119329336/205219405-0edd5e74-ec5b-4b96-85ba-ccb68856d1c8.png">
 
-- Wrong word does not show anything
-- <img width="913" alt="wrong" src="https://user-images.githubusercontent.com/119329336/205220607-d433c448-24df-4c74-91c0-e42e2ef3d01e.png">
+- For wrong spelling, it request user to check the word again.
+ <img width="913" alt="wrong" src="https://user-images.githubusercontent.com/119329336/205220607-d433c448-24df-4c74-91c0-e42e2ef3d01e.png">
 
 ## Contributors :
 
